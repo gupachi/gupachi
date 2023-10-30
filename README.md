@@ -1,4 +1,4 @@
-### '知之者 不如好之者 好之者 不如樂之者
+### 知之者 不如好之者 好之者 不如樂之者
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
