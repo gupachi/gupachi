@@ -1,6 +1,6 @@
 ### AaL Izz  Well
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=Visual studio&logoColor=white">
